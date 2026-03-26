@@ -9,9 +9,9 @@
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-Job Almarez
-Ethan Ravasco
+- Job Almarez
+- Ethan Ravasco
 
 ## Do you have any questions of your own?
-
+None
 
