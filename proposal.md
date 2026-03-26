@@ -2,9 +2,9 @@
 
 ## What idea(s) do you have for your final project?
 
-Pokémon go MY top raid pokemon
-Pokémon go my top raid counters
-Filipino Food Recommender
+1. Pokémon go MY top raid pokemon
+2. Pokémon go my top raid counters
+3. Filipino Food Recommender
 
 
 ## If you plan to collaborate with one or two classmates, what are their names?
