@@ -1,13 +1,16 @@
-# Preproposal
+## Preposal
 
 ## What idea(s) do you have for your final project?
 
-TODO
+Pokémon go MY top raid pokemon
+Pokémon go my top raid counters
+
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+Job Almarez
+Ethan Ravasco
 
 ## Do you have any questions of your own?
 
-TODO
+
