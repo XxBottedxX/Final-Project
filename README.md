@@ -33,12 +33,6 @@ python bot.py
 - `/leaderboard` — Show leaderboard (private reply)
 - `/lb-refresh` — Force refresh (requires Manage Server)
 
-## Run as a Service (Linux)
-```bash
-sudo cp mc-leaderboard.service /etc/systemd/system/
-sudo systemctl enable --now mc-leaderboard
-sudo journalctl -u mc-leaderboard -f
-```
 
 ## How It Works
 - Reads `world/stats/<uuid>.json` directly from your Paper server
