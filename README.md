@@ -10,12 +10,12 @@ Posts auto-updating leaderboards for **Playtime, Mob Kills, Player Kills, Deaths
 ## Quick Start
 
 ```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+python3 -m venv venv #Creates virtual environment
+source venv/bin/activate #Runs virtual environment
+pip install -r requirements.txt #Installs dependencies
 
 # Edit config.json with your token, channel_id, and server_path
-python bot.py
+python bot.py #Runs p
 ```
 
 ## Config Fields
