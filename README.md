@@ -41,3 +41,9 @@ python bot.py
 - Edits the same Discord message each refresh (no channel spam)
 
 See README_FULL.md for full setup instructions including Discord bot creation steps.
+
+## Final Product
+
+<img width="222" height="842" alt="image" src="https://github.com/user-attachments/assets/63ddf258-6034-4c40-83e8-06f3982079d8" />
+
+
