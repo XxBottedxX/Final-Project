@@ -1,0 +1,17 @@
+[Unit]
+Description=Minecraft Leaderboard Discord Bot
+After=network.target
+
+[Service]
+Type=simple
+# Change User= to whichever user runs your Paper server
+User=minecraft
+WorkingDirectory=/opt/mc-leaderboard-bot
+ExecStart=/opt/mc-leaderboard-bot/venv/bin/python bot.py
+Restart=on-failure
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target

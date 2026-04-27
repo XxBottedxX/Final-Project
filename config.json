@@ -1,0 +1,8 @@
+{
+  "token": "DISCORD_BOT_TOKEN",
+  "channel_id": "DISCORD_CHANNEL_ID",
+  "server_name": "SERVER_NAME",
+  "server_path": "SERVER_DIRECTORY",
+  "update_interval_minutes": 30,
+  "top_n": 10
+}
