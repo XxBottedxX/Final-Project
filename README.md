@@ -40,7 +40,7 @@ python bot.py #Runs p
 - Resolves usernames from `usercache.json`, falls back to Mojang API
 - Edits the same Discord message each refresh (no channel spam)
 
-See README_FULL.md for full setup instructions including Discord bot creation steps.
+See Video Walkthrough for more in-depth details.
 
 ## Final Product
 
