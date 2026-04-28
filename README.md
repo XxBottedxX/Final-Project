@@ -46,4 +46,6 @@ See README_FULL.md for full setup instructions including Discord bot creation st
 
 <img width="222" height="842" alt="image" src="https://github.com/user-attachments/assets/63ddf258-6034-4c40-83e8-06f3982079d8" />
 
+## 📹 Video Walkthrough
 
+[![Watch the video](https://img.youtube.com/vi/0HqL4PnRnDU/maxresdefault.jpg)](https://youtu.be/0HqL4PnRnDU)
